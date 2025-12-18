@@ -11,8 +11,8 @@ public class Division{
         System.out.print("Enter second number: ");
         int number2 = sc.nextInt();
 
-        int quotient = number1 / number2;   // Division operator
-        int remainder = number1 % number2;  // Modulus operator
+        int quotient = number1 / number2;  
+        int remainder = number1 % number2;  
 
         System.out.println(
                 "The Quotient is " + quotient +
