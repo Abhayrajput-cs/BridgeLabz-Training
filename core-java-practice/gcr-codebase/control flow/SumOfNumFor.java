@@ -17,9 +17,7 @@ public class SumOfNumFor {
 
             System.out.println("Sum using loop: " + sumLoop);
             System.out.println("Sum using formula: " + sumFormula);
-        } else {
-            System.out.println("Not a natural number");
-        }
+        } else System.out.println("Not a natural number");
         sc.close();
     }
 }

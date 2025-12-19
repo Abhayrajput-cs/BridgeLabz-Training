@@ -7,14 +7,13 @@ public class FactorialFor {
         int num = sc.nextInt();
 
         if (num >= 1) {
-            long fact = 1;
+            int fact = 1;
             for (int i = 1; i <= num; i++) {
                 fact *= i;
             }
             System.out.println("Factorial = " + fact);
-        } else {
-            System.out.println("Not a natural number");
-        }
+        } else  System.out.println("Not a natural number");
+  
         sc.close();
     }
 }

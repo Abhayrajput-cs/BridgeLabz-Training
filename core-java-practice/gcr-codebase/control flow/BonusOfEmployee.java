@@ -10,9 +10,7 @@ public class BonusOfEmployee {
         if (years > 5) {
             double bonus = salary * 0.05;
             System.out.println("Bonus = " + bonus);
-        } else {
-            System.out.println("No bonus");
-        }
+        } else  System.out.println("No bonus");
         sc.close();
     }
 }
