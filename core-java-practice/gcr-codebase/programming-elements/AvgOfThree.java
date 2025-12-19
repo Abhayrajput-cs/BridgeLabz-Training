@@ -1,5 +1,5 @@
 
-public class avgOf3 {
+public class AvgOfThree {
 public static void main(String args[])
 {
 	int a=80;
