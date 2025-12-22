@@ -5,9 +5,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="core-java-practice/gcr-codebase/programming-elements"/>
 	<classpathentry kind="src" path="core-java-practice/leetcode-codebase"/>
 	<classpathentry kind="src" path="core-java-practice/scenario-based"/>
 	<classpathentry kind="src" path="core-java-practice/gcr-codebase/arrays"/>
+	<classpathentry kind="src" path="core-java-practice/gcr-codebase/strings"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
