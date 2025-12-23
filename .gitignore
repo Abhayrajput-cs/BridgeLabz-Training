@@ -1,6 +1,12 @@
 /bin/
+<<<<<<< HEAD
 .project/
 *.class
+=======
+/.project/
+*.class
+*.class/
+>>>>>>> 6a44793f945c3811ea83da7d724d6a3623c9ccd0
 .classpath/
 
 /.metadata/
