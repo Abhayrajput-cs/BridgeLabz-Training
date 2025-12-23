@@ -1,5 +1,6 @@
 /bin/
 /.project/
-/.class/
-/.classpath/
+*.class
+*.class/
+.classpath/
 
