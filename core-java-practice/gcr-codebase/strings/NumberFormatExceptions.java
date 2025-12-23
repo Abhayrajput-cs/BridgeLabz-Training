@@ -1,36 +1,41 @@
 import java.util.Scanner;
 
 public class NumberFormatExceptions {
-
-    static String getInput() {
-        Scanner sc = new Scanner(System.in);
-        return sc.nextLine();
-    }
-
-    static void createException(String value) {
-        int number = Integer.parseInt(value);
+    public static void generateException(String text) {
+        int number = Integer.parseInt(text); // causes exception
         System.out.println(number);
     }
 
-    static void handleException(String value) {
+   
+    public static void handleException(String text) {
         try {
-            int number = Integer.parseInt(value);
+            int number = Integer.parseInt(text);
             System.out.println(number);
         } catch (NumberFormatException e) {
-            System.out.println("NumberFormatException handled");
-        } 
+            System.out.println("NumberFormatException handled: Invalid number format");
+        } catch (RuntimeException e) {
+            System.out.println("Generic RuntimeException handled");
+        }
     }
 
     public static void main(String[] args) {
 
-        String text = getInput();
+        Scanner sc = new Scanner(System.in);
 
+        System.out.print("Enter a string value: ");
+        String text = sc.nextLine();
+
+       
+        System.out.println("\nGenerating Exception:");
         try {
-            createException(text);
-        } catch (Exception e) {
-            System.out.println("Program stopped due to exception");
+            generateException(text);
+        } catch (NumberFormatException e) {
+            System.out.println("Exception caught in main method");
         }
 
+        System.out.println("\nHandling Exception:");
         handleException(text);
+
+        sc.close();
     }
 }
