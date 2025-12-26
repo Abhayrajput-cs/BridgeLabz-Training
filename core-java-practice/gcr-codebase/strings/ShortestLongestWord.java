@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class ShortestLongestWord {
 
-    // Find length without length()
     static int findLength(String str) {
         int count = 0;
         try {
@@ -14,7 +13,6 @@ public class ShortestLongestWord {
         return count;
     }
 
-    // Split text into words without split()
     static String[] splitWords(String text) {
         int len = findLength(text);
         int words = 1;
@@ -39,7 +37,6 @@ public class ShortestLongestWord {
         return arr;
     }
 
-    // Convert words into 2D array (word + length)
     static String[][] wordLength2D(String[] words) {
         String[][] data = new String[words.length][2];
 
@@ -50,7 +47,6 @@ public class ShortestLongestWord {
         return data;
     }
 
-    // Find shortest & longest
     static int[] shortestLongest(String[][] data) {
         int min = Integer.parseInt(data[0][1]);
         int max = Integer.parseInt(data[0][1]);
