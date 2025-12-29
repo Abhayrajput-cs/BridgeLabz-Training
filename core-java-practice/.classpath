@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="gcr-codebase/strings"/>
 	<classpathentry kind="src" path="gcr-codebase/methods/Extras"/>
+	<classpathentry kind="src" path="scenario-based"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
