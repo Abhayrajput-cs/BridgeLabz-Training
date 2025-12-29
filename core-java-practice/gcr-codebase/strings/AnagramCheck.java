@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class AnagramCheck {
-
     static boolean check(String a, String b) {
         if (a.length() != b.length()){
             return false;
