@@ -1,4 +1,4 @@
-# BridgeLabz-Training
+﻿# BridgeLabz-Training
 ## 📌 Week 1  Getting Started with JAVA
    **🗓️ 17-Dec-2025 (Wednesday):** [Check Here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)
    
@@ -13,48 +13,47 @@
 	+-- README.md
    **🗓️ 18-Dec-2025 (Thursday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 		
-    Continued with documentation.Solved and submitted basic practice problems on GitHub 
-     Using basic commands in Programming Elements in JAVA.
+    Continued with documentation.Solved and submitted basic practice problems on GitHub Using basic commands in Programming Elements in JAVA.
 	  core-java-practice/
 	     +---gcr-codebase/
 	     |   +---programming-elements/
    **🗓️ 19-Dec-2025 (Friday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control%20flow)
    
-    Performed and Pushed All the questions Of Level 1 and Level 2 on GitHub.
-    And new Work for Saturday has been assigned for another levels for Control Flow.
+    Performed and Pushed All the questions Of Level 1 and Level 2 on GitHub and new Work for Saturday has been assigned for another levels for Control Flow.
 		+--gcr-codebase/
 		|   +--control-flow/
    **🗓️ 20-Dec-2025 (Saturday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
    
-    Completed and Push all the levels of arrays Questions into the "core-java-practice" BRANCH.
-    Updated the Readme files for the previous days.
+    Completed and Push all the levels of arrays Questions into the "core-java-practice" BRANCH.Updated the Readme files for the previous days.
 		   +-- gcr-codebase/
 		   |   +-- arrays/
-## 📌 Week 2  More on Java Practice Questions
-
-
+## 📌 Week 2 More Java Practice Questions
    **🗓️ 22-Dec-2025 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
           
-       Strings Questions of Level 1,Level 2,Level 3 were Assigned today and pushed Level 1 on 22 dec on 
-       GitHub.       
+       Strings Questions of Level 1,Level 2,Level 3 were Assigned today and pushed Level 1 on 22 dec on GitHub.       
           +-- gcr-codebase/
 		   |   +--strings/
   **🗓️ 23-Dec-2025 (Tuesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
   
          Continued the strings questions and pushed it on GitHub Of LEVEL 2 and LEVEL 3.
-          Refactored the Previous codes Pushed  and again pushed them to GitHub.
- **🗓️ 24-Dec-2025 (Wednesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+         Refactored the Previous codes Pushed  and again pushed them to GitHub.
+ **🗓️ 24-Dec-2025 (Wednesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
  
-         Methods Questions for Level 1, Level 2, Level 3 were assigned and completed the level 1 on the 
-         same day itself.
+         Methods Questions for Level 1, Level 2, Level 3 were assigned and completed the level 1 on the same day itself.
 		   +-- gcr-codebase/
 		   |   +--methods/
- **🗓️ 26-Dec-2025 (Thursday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+ **🗓️ 26-Dec-2025 (Friday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
       
         All levels of Methods Questions Completed and pushed to the GitHub today.
-        Methods Questions Assignment Completed and Handed in to the GCR.
         Extras Given on 25th december of Strings Completed Today and pushed to github.
-		   
-		   
-		   
-		   
+## 📌 Week 3  Scenario Based Started    
+**🗓️ 29-Dec-2025 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/)
+		 
+		 Completed The Wages problem of Scenario BAsed on the same day itself and pushed to gitHub.
+**🗓️ 30-Dec-2025 (Tuesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/)
+	    
+	          +-- core-java-practice/
+              |       +-- scenario-based/
+
+**🗓️ 31-Dec-2025 (Wednesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice)
+	    
