@@ -46,14 +46,19 @@
       
         All levels of Methods Questions Completed and pushed to the GitHub today.
         Extras Given on 25th december of Strings Completed Today and pushed to github.
-## 📌 Week 3  Scenario Based Started    
+## 📌 Week 3  Scenario Based Started/OOPS Started 
 **🗓️ 29-Dec-2025 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/)
 		 
 		 Completed The Wages problem of Scenario BAsed on the same day itself and pushed to gitHub.
 **🗓️ 30-Dec-2025 (Tuesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/)
 	    
 	          +-- core-java-practice/
-              |       +-- scenario-based/
+             |          +-- scenario-based/
 
 **🗓️ 31-Dec-2025 (Wednesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice)
-	    
+        
+         BridgeLabz-Training/
+	          +-- core-java-practice/
+	          +-- oops-practice/
+        Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. 
+	     Pushed the constructors based questions    
