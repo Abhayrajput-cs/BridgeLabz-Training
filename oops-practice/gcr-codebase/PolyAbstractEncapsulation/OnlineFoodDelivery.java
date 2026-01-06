@@ -107,7 +107,7 @@ public class OnlineFoodDelivery {
             item.getItemDetails();
             System.out.println(item.getDiscountDetails());
             System.out.println("Final Price after " + discountPercent + "% discount: " + item.applyDiscount(discountPercent));
-            System.out.println(" j");
+            System.out.println(" ");
         }
     }
 
