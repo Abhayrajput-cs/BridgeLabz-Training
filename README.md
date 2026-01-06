@@ -1,3 +1,4 @@
+
 ﻿# BridgeLabz-Training
 ## 📌 Week 1  Getting Started with JAVA
    **🗓️ 17-Dec-2025 (Wednesday):** [Check Here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)
@@ -61,4 +62,19 @@
 	          +-- core-java-practice/
 	          +-- oops-practice/
         Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. 
-	     Pushed the constructors based questions    
+	     Pushed the constructors based questions.
+**🗓️ 01-Jan-2026 (Thrusday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor)
+         
+         /oops-practice/gcr-codebase/constructor
+         Performed All the Constructors Questions on First day of the first new year.
+**🗓️ 02-Jan-2026 (Friday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/ClassObject-Diagram)
+
+      Draws the class object diagram in the copy and took the photos and uploaded to the gcrcodebase today.
+**🗓️ 03-Jan-2026 (Saturday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+      
+        Created the Inheritance folder and performend all the inheritance questions provided today and pushed to GitHub.
+        
+
+## 📌 Week 4 More on OOPs Questions.
+
+**🗓️ 05-Jan-2026 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
