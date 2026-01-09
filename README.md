@@ -61,4 +61,37 @@
 	          +-- core-java-practice/
 	          +-- oops-practice/
         Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. 
-	     Pushed the constructors based questions    
+	     Pushed the constructors based questions
+**🗓️ 01-Jan-2026 (Thrusday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor)
+         
+         /oops-practice/gcr-codebase/constructor
+         Performed All the Constructors Questions on First day of the first new year.
+**🗓️ 02-Jan-2026 (Friday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/ClassObject-Diagram)
+
+      Draws the class object diagram in the copy and took the photos and uploaded to the gcrcodebase today.
+**🗓️ 03-Jan-2026 (Saturday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+      
+        Created the Inheritance folder and performend all the inheritance questions provided today and pushed to GitHub.
+## 📌 Week 4 More on OOPs Questions.
+
+**🗓️ 05-Jan-2026 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice)
+         
+         Continued With the more OOPs Questions and Submissions on 5th JAN.
+**🗓️ 06-Jan-2026 (Tuesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/)
+     
+         Performed 5 Random Questions of Leetcode to the Leetcode codebase Folder.
+         Encapulation Polymorphism Question Done in this date and folder of GCR-CODEBASE
+**🗓️ 07-Jan-2026 (Wednesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice)
+           
+           Some Scenario BAsed Question Performed and Learnt The Basics of DSA linkedList and Arrays Trees etc from PDF provide from the mentors.
+
+**🗓️ 08-Jan-2026 (Thrusday):** 
+        
+        Created the NEW branch for DSA questions And started with LinkedList on the First day and pushed 9 codes to github.
+         Assigned the ScenarioBased Questions and completed the day itself.
+         Attended The Meeting Organized by Capgemini.
+**🗓️ 09-Jan-2026 (Friday):** 
+       
+       Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions 
+       Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
+ 
