@@ -62,11 +62,7 @@
 	          +-- core-java-practice/
 	          +-- oops-practice/
         Created new branch of oops-practice and performed Level 1 Level 2 of Class and Object questions in it. 
-<<<<<<< HEAD
-	     Pushed the constructors based questions
-=======
-	     Pushed the constructors based questions.
->>>>>>> e41d467928d50c3d1cebb5bee090faeee6e4bc67
+
 **🗓️ 01-Jan-2026 (Thrusday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor)
          
          /oops-practice/gcr-codebase/constructor
@@ -77,7 +73,7 @@
 **🗓️ 03-Jan-2026 (Saturday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
       
         Created the Inheritance folder and performend all the inheritance questions provided today and pushed to GitHub.
-<<<<<<< HEAD
+
 ## 📌 Week 4 More on OOPs Questions.
 
 **🗓️ 05-Jan-2026 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice)
@@ -100,11 +96,3 @@
        
        Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions 
        Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
- 
-=======
-        
-
-## 📌 Week 4 More on OOPs Questions.
-
-**🗓️ 05-Jan-2026 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
->>>>>>> e41d467928d50c3d1cebb5bee090faeee6e4bc67
