@@ -96,3 +96,7 @@
        
        Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions 
        Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
+**🗓️ 12-Jan-2026 (Monday):** 
+    
+    Performing More OOPs Scenario Based Questions Provided By BridgeLabz.
+    
