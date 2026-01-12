@@ -61,7 +61,7 @@
          
 **🗓️ 09-Jan-2026 (Friday):**Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
 ## 📌 Week 5 OOPs Practice real life Questions.  
-**🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz.
+**🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz. Inventory Management System, Hotel Reservation System,Online Voting System,Digital Wallet System,TrafficManagerRoundabout Vehicle Flow.
 
 
    
