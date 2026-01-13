@@ -17,7 +17,8 @@
 	  core-java-practice/
 	     +---gcr-codebase/
 	     |   +---programming-elements/
-   **🗓️ 19-Dec-2025 (Friday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control%20flow)Performed and Pushed All the questions Of Level 1 and Level 2 on GitHub and new Work for Saturday has been assigned for another levels for Control Flow.
+   **🗓️ 19-Dec-2025 (Friday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control%20flow)
+Performed and Pushed All the questions Of Level 1 and Level 2 on GitHub and new Work for Saturday has been assigned for another levels for Control Flow.
 		
    **🗓️ 20-Dec-2025 (Saturday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
    Completed and Push all the levels of arrays Questions into the "core-java-practice" BRANCH.Updated the Readme files for the previous days.
@@ -62,6 +63,8 @@
 **🗓️ 09-Jan-2026 (Friday):**Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
 ## 📌 Week 5 OOPs Practice real life Questions.  
 **🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz. Inventory Management System, Hotel Reservation System,Online Voting System,Digital Wallet System,TrafficManagerRoundabout Vehicle Flow.
+
+**🗓️ 13-Jan-2026 (Tuesday):**[Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)More OOPs questions Completed with proper format and proper Package Declaration in the respective folder and named teh main file withh App name.
 
 
    
