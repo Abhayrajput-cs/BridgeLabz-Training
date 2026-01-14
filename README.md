@@ -65,6 +65,7 @@
 
 **🗓️ 13-Jan-2026 (Tuesday):**[Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)More OOPs questions Completed with proper format and proper Package Declaration in the respective folder and named teh main file withh App name.EcommerceOrderManagementSystem,HotelReservationSystem,InventoryManagementSystem.
 
-
+**🗓️ 14-Jan-2026 (Wednesday):**[Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+Performed all questions on Stack,Queue and pushed to the dsa branch.
    
     
