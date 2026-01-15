@@ -24,7 +24,7 @@
 		   |   +-- arrays/
 ## 📌 Week 2 More Java Practice Questions
    **🗓️ 22-Dec-2025 (Monday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) Strings Questions of Level 1,Level 2,Level 3 were Assigned today and pushed Level 1 on 22 dec on GitHub.
-          
+             
   **🗓️ 23-Dec-2025 (Tuesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) Continued the strings questions and pushed it on GitHub Of LEVEL 2 and LEVEL 3.Refactored the Previous codes Pushed  and again pushed them to GitHub.
   
  **🗓️ 24-Dec-2025 (Wednesday):** [Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods) Methods Questions for Level 1, Level 2, Level 3 were assigned and completed the level 1 on the same day itself.
@@ -64,5 +64,6 @@
 **🗓️ 13-Jan-2026 (Tuesday):**[Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) More OOPs questions Completed with proper format and proper Package Declaration in the respective folder and named teh main file withh App name.EcommerceOrderManagementSystem,HotelReservationSystem,InventoryManagementSystem.
 
 **🗓️ 14-Jan-2026 (Wednesday):**[Check here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StackQueueHashMap) Performed all questions on Stack,Queue and pushed to the dsa branch.HashMap and Map Questions solved in different folders [clickForMap](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StackQueueHashMap/HashMap)
-   
+
+**🗓️ 15-Jan-2026 (Thrusday):**[Click Here]() Getting start with DSA Sorting concepts and learning the new concepts and project structure of SpringBoot. All Sorting algorithm completed Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Selection Sort,Heap Sort,Counting Sort.
     
