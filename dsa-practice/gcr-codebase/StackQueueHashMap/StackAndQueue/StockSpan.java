@@ -1,8 +1,8 @@
-package StackQueueHashMap.StackAndQueue;
+//package StackAndQueue;
 
 import java.util.Stack;
 
-class SortStack {
+class SortStackes {
 
     public static void sort(Stack<Integer> stack) {
         if (!stack.isEmpty()) {

@@ -1,4 +1,4 @@
-//package StackQueueHashMap.HashMap;
+package HashMap;
 
 import java.util.*;
 
