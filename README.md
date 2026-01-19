@@ -67,3 +67,15 @@
 
 **🗓️ 15-Jan-2026 (Thrusday):**[Click Here]() Getting start with DSA Sorting concepts and learning the new concepts and project structure of SpringBoot. All Sorting algorithm completed Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Selection Sort,Heap Sort,Counting Sort.
     
+**🗓️ 16-Jan-2026 (Friday):**[Click Here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Completed with Sortings Questions With Hand On Practice BookPriceMergeSort, CountingSortStudentAges, EmployeeIdInsertion.
+
+**🗓️ 17-Jan-2026 (Saturday):**[Click Here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Searching Questions with Real Life Based Scenarios Completed today And Pushed to github. Reviews For OOPS COmpleted.
+
+**🗓️ 19-Jan-2026 (Monday):**[Click Here](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem) AddressBook Problem UC1 And UC2 completed and pushed to gitHub
+
+
+
+
+
+
+
