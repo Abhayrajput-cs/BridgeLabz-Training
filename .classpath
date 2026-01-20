@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="dsa-practice/runtime&amp;Onotation/|dsa-practice/runtime&amp;Onotation/" kind="src" path=""/>
+	<classpathentry excluding="dsa-practice/runtime&amp;Onotation/|dsa-practice/runtime&amp;Onotation/|dsa-practice/gcr-codebase/runtime&amp;Onotation/|dsa-practice/gcr-codebase/runtime&amp;Onotation/" kind="src" path=""/>
 	<classpathentry kind="src" path="dsa-practice/runtime&amp;Onotation"/>
+	<classpathentry kind="src" path="dsa-practice/gcr-codebase/runtime&amp;Onotation"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
