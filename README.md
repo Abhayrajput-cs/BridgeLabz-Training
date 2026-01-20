@@ -74,7 +74,7 @@
 ## 📌 Week 6 Continued with OOPs Practice Questions and DSA .  
 **🗓️ 19-Jan-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem) AddressBook Problem UC1 And UC2 completed and pushed to gitHub
 
-**19-Jan-2026 (Tuesday):**[Check] 
+**🗓️ 20-Jan-2026 (Tuesday):**[Check] 
 
 
 
