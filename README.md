@@ -76,7 +76,7 @@
 
 **🗓️ 20-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode. CinemaTime – Movie Schedule Manager, Banking Account Hierarchy,  Employee Role Polymorphism etc.
 
-
+**🗓️ 21-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/interface/) All The questions of Interface like Set Interface, Map Interface, List Interface etc.
 
 
 
