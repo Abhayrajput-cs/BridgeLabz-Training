@@ -72,11 +72,18 @@
 **🗓️ 17-Jan-2026 (Saturday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Searching Questions with Real Life Based Scenarios Completed today And Pushed to github. Reviews For OOPS COmpleted.
 
 ## 📌 Week 6 Continued with OOPs Practice Questions and DSA .  
-**🗓️ 19-Jan-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem) AddressBook Problem UC1 And UC2 completed and pushed to gitHub
+**🗓️ 19-Jan-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem) AddressBook Problem UC1,UC2,UC3,UC4,UC5,UC6 completed and pushed to gitHub
 
 **🗓️ 20-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode. CinemaTime – Movie Schedule Manager, Banking Account Hierarchy,  Employee Role Polymorphism etc.
 
 **🗓️ 21-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/interface/) All The questions of Interface like Set Interface, Map Interface, List Interface etc.
+
+**🗓️ 22-Jan-2026 (Thrusday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/interface) More Questions on Interface of Queue and List on the main Interface Folders.
+
+**🗓️ 23-Jan-2026 (Friday):**Continues With Common Work.
+
+## 📌 Week 6 Collection, Interface, Streams, Exceptions Handling.  
+**🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) Exceptions Questions on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, try-with-resources, throw vs. throws, Nested try-catch Block. 
 
 
 
