@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="collections-practice/gcr-codebase/interface/set_Inerface/|collections-practice/gcr-codebase/interface/set_Inerface/|collections-practice/gcr-codebase/streams/|collections-practice/gcr-codebase/streams/" kind="src" path=""/>
-	<classpathentry kind="src" path="collections-practice/gcr-codebase/interface/set_Inerface"/>
-	<classpathentry kind="src" path="collections-practice/gcr-codebase/streams"/>
+	<classpathentry excluding="collections-practice/gcr-codebase/exceptions/|collections-practice/gcr-codebase/exceptions/" kind="src" path=""/>
+	<classpathentry kind="src" path="collections-practice/gcr-codebase/exceptions"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
