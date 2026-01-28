@@ -82,9 +82,10 @@
 
 **🗓️ 23-Jan-2026 (Friday):**Continues With Common Work.
 
-## 📌 Week 6 Collection, Interface, Streams, Exceptions Handling.  
+## 📌 Week 7 Collection, Interface, Streams, Exceptions Handling.  
 **🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) Exceptions Questions on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, try-with-resources, throw vs. throws, Nested try-catch Block. 
 
+**🗓️ 28-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) Completed With Scenario BAsed Questions like EduResult.java, FileBackup.java, ParcelTracker.java, RestruTableRegistration.java, SmartCheckout.java.
 
 
 
