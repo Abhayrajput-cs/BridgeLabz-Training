@@ -87,6 +87,12 @@
 
 **🗓️ 28-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) Completed With Scenario BAsed Questions like EduResult.java, FileBackup.java, ParcelTracker.java, RestruTableRegistration.java, SmartCheckout.java.
 
+**🗓️ 29-Jan-2026 (Thrusday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regEx) Started with JUnit Testing and RegularExpressions. Converting the Project to maven and adding dependencies to it to be in Runnable Form.
+
+**🗓️ 30-Jan-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit/junit) Pushed the JUnit Folder and testing Files to GItHUb and Tested In JUNIT Library Environment.
+
+
+
 
 
 
