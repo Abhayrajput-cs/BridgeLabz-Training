@@ -8,7 +8,7 @@ class LegacyAPI {
     }
 }
 
-public class Q2_DeprecatedAnnotation {
+public class DeprecatedAnnotation {
     public static void main(String[] args) {
         LegacyAPI api = new LegacyAPI();
         api.oldFeature(); // Should show warning

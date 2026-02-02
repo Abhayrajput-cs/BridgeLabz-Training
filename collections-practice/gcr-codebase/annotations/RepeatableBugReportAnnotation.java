@@ -18,7 +18,7 @@ class Software {
     public void process() {}
 }
 
-public class Q5_RepeatableBugReportAnnotation {
+public class RepeatableBugReportAnnotation {
     public static void main(String[] args) throws Exception {
         Method m = Software.class.getDeclaredMethod("process");
         BugReport[] reports = m.getAnnotationsByType(BugReport.class);

@@ -13,7 +13,7 @@ class SecureService {
     }
 }
 
-public class Q10_RoleAllowedAnnotation {
+public class RoleAllowedAnnotation {
     public static void main(String[] args) throws Exception {
         String userRole = "USER"; // Change to "ADMIN" to allow access
         SecureService service = new SecureService();

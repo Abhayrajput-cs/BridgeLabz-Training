@@ -13,7 +13,7 @@ class JsonUser {
     private int age = 30;
 }
 
-public class Q11_JsonFieldAnnotation {
+public class JsonFieldAnnotation {
     public static String toJson(Object obj) throws Exception {
         StringBuilder sb = new StringBuilder();
         sb.append("{");

@@ -13,7 +13,7 @@ class ExpensiveCalculator {
     }
 }
 
-public class Q12_CacheResultAnnotation {
+public class CacheResultAnnotation {
     public static void main(String[] args) throws Exception {
         ExpensiveCalculator calc = new ExpensiveCalculator();
         Method m = ExpensiveCalculator.class.getDeclaredMethod("compute", int.class);

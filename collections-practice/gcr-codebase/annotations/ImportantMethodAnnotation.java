@@ -16,7 +16,7 @@ class Demo {
     public void methodC() {}
 }
 
-public class Q6_ImportantMethodAnnotation {
+public class ImportantMethodAnnotation {
     public static void main(String[] args) {
         for (Method m : Demo.class.getDeclaredMethods()) {
             if (m.isAnnotationPresent(ImportantMethod.class)) {

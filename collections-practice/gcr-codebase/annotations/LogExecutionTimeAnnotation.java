@@ -15,7 +15,7 @@ class TimerDemo {
     }
 }
 
-public class Q8_LogExecutionTimeAnnotation {
+public class LogExecutionTimeAnnotation {
     public static void main(String[] args) throws Exception {
         TimerDemo demo = new TimerDemo();
         for (Method m : TimerDemo.class.getDeclaredMethods()) {

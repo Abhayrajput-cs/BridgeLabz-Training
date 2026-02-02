@@ -11,7 +11,7 @@ class Dog extends Animal {
     }
 }
 
-public class Q1_OverrideAnnotation {
+public class OverrideAnnotation {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.makeSound();

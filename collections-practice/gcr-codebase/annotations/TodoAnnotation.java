@@ -16,7 +16,7 @@ class Project {
     public void logout() {}
 }
 
-public class Q7_TodoAnnotation {
+public class TodoAnnotation {
     public static void main(String[] args) {
         for (Method m : Project.class.getDeclaredMethods()) {
             if (m.isAnnotationPresent(Todo.class)) {
