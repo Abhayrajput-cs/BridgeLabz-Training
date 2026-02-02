@@ -20,7 +20,7 @@ class User {
     public String getUsername() { return username; }
 }
 
-public class Q9_MaxLengthAnnotation {
+public class MaxLengthAnnotation {
     public static void main(String[] args) {
         try {
             User u1 = new User("short");
