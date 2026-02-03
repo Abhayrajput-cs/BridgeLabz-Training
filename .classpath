@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="oops-practice/gcr-codebase/constructor/|oops-practice/gcr-codebase/constructor/" kind="src" path=""/>
-	<classpathentry kind="src" path="oops-practice/gcr-codebase/constructor"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="java8-features-practice/gcr-codebase/streamAPI/|java8-features-practice/gcr-codebase/streamAPI/" kind="src" path=""/>
+	<classpathentry kind="src" path="java8-features-practice/gcr-codebase/streamAPI"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
