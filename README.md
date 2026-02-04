@@ -82,7 +82,7 @@
 
 **🗓️ 23-Jan-2026 (Friday):**Continues With Common Work.
 
-## 📌 Week 7 Collection, Interface, Streams, Exceptions Handling.  
+## 📌 Week 7 Collection, Interface, Streams, Exceptions Handling,JUNIT,JSON.  
 **🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) Exceptions Questions on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, try-with-resources, throw vs. throws, Nested try-catch Block. 
 
 **🗓️ 28-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) Completed With Scenario BAsed Questions like EduResult.java, FileBackup.java, ParcelTracker.java, RestruTableRegistration.java, SmartCheckout.java.
@@ -91,6 +91,14 @@
 
 **🗓️ 30-Jan-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit/junit) Pushed the JUnit Folder and testing Files to GItHUb and Tested In JUNIT Library Environment.
 
+
+## 📌 Week 8 Interfaces,JAVA8 Features,IO programming.
+ **🗓️ 2-feb-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csvDataHandling) CSV file Handling Questions Completed and Pushed to GitHub CSVtoObjects.java,CreateCSV.java, ValidateUsers.java, ReasCSVprintCSV.java.
+ 
+ **🗓️ 3-feb-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/jsonHandling) Completed the Json Files Questions Using and Converting the project to Maven NAture And providing them to env to execute.
+ 
+ **🗓️ 4-feb-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aeroVigil)Completed the AeroVigil Scenario based Question in DSA-practice.  Completed with lambda Expression and Interfaces like Marker interface and Functinal interface and pushed the code[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/interface)
+ 
 
 
 
