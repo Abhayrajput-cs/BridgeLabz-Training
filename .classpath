@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="java8-features-practice/gcr-codebase/lambda-functions/|java8-features-practice/gcr-codebase/lambda-functions/" kind="src" path=""/>
-	<classpathentry kind="src" path="java8-features-practice/gcr-codebase/lambda-functions"/>
+	<classpathentry excluding="java8-features-practice/gcr-codebase/interface/|java8-features-practice/gcr-codebase/interface/" kind="src" path=""/>
+	<classpathentry kind="src" path="java8-features-practice/gcr-codebase/interface"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
