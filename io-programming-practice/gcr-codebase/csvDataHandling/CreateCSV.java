@@ -5,7 +5,7 @@ public class CreateCSV {
 
     public static void main(String[] args) {
 
-        String filePath = "D:\\BT\\BridgeLabz-Training\\io-programming-practice\\csvDataHandling\\employee.csv";
+        String filePath = "D:\\BT\\BridgeLabz-Training\\io-programming-practice\\gcr-cose\\csvDataHandling\\employee.csv";
 
         try (FileWriter fw = new FileWriter(filePath)) {
 
@@ -22,7 +22,7 @@ public class CreateCSV {
             System.out.println("Employee CSV file created successfully!");
 
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         }
     }
 }
