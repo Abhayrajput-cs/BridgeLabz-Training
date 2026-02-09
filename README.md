@@ -50,22 +50,21 @@
 
 **🗓️ 05-Jan-2026 (Monday):** [Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice) Continued With the more OOPs Questions and Submissions on 5th JAN.
          
-**🗓️ 06-Jan-2026 (Tuesday):** [Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/) Performed 5 Random Questions of Leetcode to the Leetcode codebase Folder.
-         Encapulation Polymorphism Question Done in this date and folder of GCR-CODEBASE
+**🗓️ 06-Jan-2026 (Tuesday):** [Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/) Performed 5 Random Questions of Leetcode to the Leetcode codebase Folder.Encapulation Polymorphism Questions
          
-**🗓️ 07-Jan-2026 (Wednesday):** [Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice) Some Scenario BAsed Question Performed and Learnt The Basics of DSA linkedList and Arrays Trees etc from PDF provide from the mentors.
+**🗓️ 07-Jan-2026 (Wednesday):** [Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice) Some Scenario BAsed Question Performed and Learnt The Basics of DSA linkedList and Arrays.
 
-**🗓️ 08-Jan-2026 (Thrusday):** Created the NEW branch for DSA questions And started with LinkedList on the First day and pushed 9 codes to github.Assigned the ScenarioBased Questions and completed the day itself.Attended The Meeting Organized by Capgemini.
+**🗓️ 08-Jan-2026 (Thrusday):** Created the NEW branch for DSA questions And started with LinkedList ScenarioBased Questions completed.
          
-**🗓️ 09-Jan-2026 (Friday):**Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions Like HMS (Hospital MAnagement System), Vehicle Managemnet(VMS) etc.
+**🗓️ 09-Jan-2026 (Friday):**Solved the Extras of Scenario Based today And Submitted the LinkedList Questions And oops Scenario Quetions Like HMS ,(VMS) etc.
 ## 📌 Week 5 OOPs Practice real life Questions.  
-**🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz. Inventory Management System, Hotel Reservation System,Online Voting System,Digital Wallet System,TrafficManagerRoundabout Vehicle Flow.
+**🗓️ 12-Jan-2026 (Monday):** Performed More OOPs Scenario Based Questions Provided By BridgeLabz. InventorySystem, HotelSystem,VotingSystem,WalletSystem.
 
-**🗓️ 13-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) More OOPs questions Completed with proper format and proper Package Declaration in the respective folder and named teh main file withh App name.EcommerceOrderManagementSystem,HotelReservationSystem,InventoryManagementSystem.
+**🗓️ 13-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) More OOPs questions Completed with proper format folder and named the main file withh App name. HotelReservationSystem,IMS.
 
-**🗓️ 14-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StackQueueHashMap) Performed all questions on Stack,Queue and pushed to the dsa branch.HashMap and Map Questions solved in different folders [clickForMap](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StackQueueHashMap/HashMap)
+**🗓️ 14-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StackQueueHashMap) Performed all questions on Stack,Queue and pushed to the dsa branch.and Map Questions solved in different folders [clickForMap](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StackQueueHashMap/HashMap)
 
-**🗓️ 15-Jan-2026 (Thrusday):**[Check]() Getting start with DSA Sorting concepts and learning the new concepts and project structure of SpringBoot. All Sorting algorithm completed Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Selection Sort,Heap Sort,Counting Sort.
+**🗓️ 15-Jan-2026 (Thrusday):**Getting start with DSA Sorting concepts. All Sorting algorithm completed Bubble,Insertion,Merge,Quick,Selection,Heap,Counting Sort.
     
 **🗓️ 16-Jan-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase) Completed with Sortings Questions With Hand On Practice BookPriceMergeSort, CountingSortStudentAges, EmployeeIdInsertion.
 
@@ -74,7 +73,7 @@
 ## 📌 Week 6 Continued with OOPs Practice Questions and DSA .  
 **🗓️ 19-Jan-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/addressBookProblem) AddressBook Problem UC1,UC2,UC3,UC4,UC5,UC6 completed and pushed to gitHub
 
-**🗓️ 20-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode. CinemaTime – Movie Schedule Manager, Banking Account Hierarchy,  Employee Role Polymorphism etc.
+**🗓️ 20-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode.Banking Account Hierarchy.
 
 **🗓️ 21-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/interface/) All The questions of Interface like Set Interface, Map Interface, List Interface etc.
 
@@ -83,24 +82,29 @@
 **🗓️ 23-Jan-2026 (Friday):**Continues With Common Work.
 
 ## 📌 Week 7 Collection, Interface, Streams, Exceptions Handling,JUNIT,JSON.  
-**🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) Exceptions Questions on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, try-with-resources, throw vs. throws, Nested try-catch Block. 
+**🗓️ 27-Jan-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) Exceptions Questions on Checked, Unchecked, Custom Exceptions, Multiple Catch Blocks, try-with-resources, throw vs. throws.
 
-**🗓️ 28-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) Completed With Scenario BAsed Questions like EduResult.java, FileBackup.java, ParcelTracker.java, RestruTableRegistration.java, SmartCheckout.java.
+**🗓️ 28-Jan-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) Completed With Scenario BAsed Questions like EduResult.java, RestruTableRegistration.java, SmartCheckout.java.
 
-**🗓️ 29-Jan-2026 (Thrusday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regEx) Started with JUnit Testing and RegularExpressions. Converting the Project to maven and adding dependencies to it to be in Runnable Form.
+**🗓️ 29-Jan-2026 (Thrusday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regEx) Started with JUnit Testing and RegEx. Converting the Project to maven and adding dependencies to it to be in Runnable Form.
 
 **🗓️ 30-Jan-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit/junit) Pushed the JUnit Folder and testing Files to GItHUb and Tested In JUNIT Library Environment.
 
 
 ## 📌 Week 8 Interfaces,JAVA8 Features,IO programming.
- **🗓️ 2-feb-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csvDataHandling) CSV file Handling Questions Completed and Pushed to GitHub CSVtoObjects.java,CreateCSV.java, ValidateUsers.java, ReasCSVprintCSV.java.
+**🗓️ 2-feb-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csvDataHandling) CSV file Handling Questions Completed and Pushed to GitHub CreateCSV.java, ValidateUsers.java, ReasCSVprintCSV.java.
  
- **🗓️ 3-feb-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/jsonHandling) Completed the Json Files Questions Using and Converting the project to Maven NAture And providing them to env to execute.
+**🗓️ 3-feb-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/jsonHandling) Completed the Json Files Questions Using and Converting the project to Maven NAture And providing them to env to execute.
  
- **🗓️ 4-feb-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aeroVigil)Completed the AeroVigil Scenario based Question in DSA-practice.  Completed with lambda Expression and Interfaces like Marker interface and Functinal interface and pushed the code[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/interface)
- 
+**🗓️ 4-feb-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aeroVigil)Completed the AeroVigil Scenario based Question in DSA-practice.  Completed with lambda Expression and Interfaces[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/interface)
 
+**🗓️ 5-feb-2026 (Thrusday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multi-threading)  Continues with same work of interfaces.
 
+**🗓️ 6-feb-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/design-pattern) Created the New Branch for designing patterns and done with the Questions of Designing Pattern.
 
+**🗓️ 7-feb-2026 (Saturday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multi-threading) Performed the multithreading Questions with proper folder Structure and with 
+
+## 📌 Week 9 MultiThreading,Designing Pattern Features,JDBC.
+**🗓️ 9-feb-2026 (Monday):**[Check]() Created teh JDBC-DBMS-practice branch and performed the question of Gcr-codebase in it.
 
 
