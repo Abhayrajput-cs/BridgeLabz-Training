@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="review"/>
+	<classpathentry excluding="practiceQuestion/" kind="src" path="review"/>
+	<classpathentry kind="src" path="review/practiceQuestion"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
