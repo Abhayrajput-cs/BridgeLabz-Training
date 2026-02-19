@@ -105,6 +105,25 @@
 **🗓️ 7-feb-2026 (Saturday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multi-threading) Performed the multithreading Questions with proper folder Structure and with 
 
 ## 📌 Week 9 MultiThreading,Designing Pattern Features,JDBC.
-**🗓️ 9-feb-2026 (Monday):**[Check]() Created teh JDBC-DBMS-practice branch and performed the question of Gcr-codebase in it.
+**🗓️ 9-feb-2026 (Monday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase) Created teh JDBC-DBMS-practice branch and performed the question of Gcr-codebase in it.
+
+**🗓️ 10-feb-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase)Solved and pushed design patterns problems+M1 Mock Examination Written;
+ 
+**🗓️ 11-feb-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase)Learn about SonarQube and setup, connect with address book and submitted
+
+**🗓️ 12-feb-2026 (Thrusday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase)Solved Hotel reservation validation practice problem; Solved console-based few use
+
+**🗓️ 13-feb-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase)-Solved and pushed Smart parking slot allocation, online course enrollment, music playlist manager, hotel
+
+**🗓️ 14-feb-2026 (Saturday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase)Test Class With new Questions Performed
+## 📌 Week 10 JDBC & DBMS more:
+
+**🗓️ 16-feb-2026 (Monday):**Solved use cases of health clinic problem and submitted assignment of JDBC and DBMS Click Here; Study about SQL;
+
+**🗓️ 17-feb-2026 (Tuesday):**[Check](https://github.com/Abhayrajput-cs/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWages.java)Solved and submitted assignment of employee wage computation problem Ypdation also to old one.
+
+**🗓️ 18-feb-2026 (Wednesday):**[Check](https://github.com/Abhayrajput-cs/QuantityMeasurementApp/)M1 mock test attended; Quantity management app project setup;
+
+**🗓️ 19-feb-2026 (Friday):**[Check](https://github.com/Abhayrajput-cs/QuantityMeasurementApp/)Working More UCs on Quantity MEasument App.
 
 
