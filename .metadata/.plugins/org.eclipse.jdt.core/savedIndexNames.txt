@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\bl\BridgeLabz-Training\.metadata\.plugins\org.eclipse.jdt.core
+4164249287.index
+1239023456.index
+1865797976.index
