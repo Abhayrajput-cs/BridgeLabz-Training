@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 *.class
 *.project
 /bin/
 *.classpath
 *.metadata
-=======
 /bin/
 .project/
 *.class
@@ -15,4 +14,3 @@
 
 /.metadata/
 /target/
->>>>>>> core-java-practice
