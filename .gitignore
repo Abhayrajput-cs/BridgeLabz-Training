@@ -1,5 +1,16 @@
+
 *.class
 *.project
 /bin/
 *.classpath
 *.metadata
+/bin/
+.project/
+*.class
+/.project/
+*.class
+*.class/
+.classpath/
+
+/.metadata/
+/target/
